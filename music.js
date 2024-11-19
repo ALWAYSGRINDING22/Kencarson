@@ -3,6 +3,10 @@ const songs = [
   { title: "Vansire - Metamodernity", src: "music2.mp3" },
   { title: "Never Get Used To People - Life Letters", src: "music3.mp3" },
   { title: "Swaige - GET SILLY!!", src: "music4.mp3" },
+ { title: "Ken Carson - Fighting My Demons", src: "Fighting My Demons.mp3" },
+  { title: "Ken carson - Green Room", src: "Green Room.mp3" },
+  { title: "Ken Carson - hardcore", src: "Hardcore.mp3" },
+  { title: "Ken Carson - It's over", src: "It's Over.mp3" },
 
 ];
 // edit this array to add your own music
